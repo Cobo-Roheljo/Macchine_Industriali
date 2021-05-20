@@ -1,0 +1,43 @@
+.Titolo{
+  font-family: 'Goblin One', cursive;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.testo{
+  text-align: center;
+}
+
+.testoSinistra{
+
+  padding-left: 15px;
+}
+
+.Carousel{
+  padding-left: width="200px";
+  padding-right: width="200px";
+}
+
+.Color{
+  text-decoration-color: color="grey";
+}
+
+.bg{
+  background-color: yellow;
+}
+
+.fonti{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.colornavbar{
+  color: white;
+}
+
+.bg {
+    background-color: $gray-500;
+}
